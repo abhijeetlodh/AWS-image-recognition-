@@ -10,7 +10,7 @@ Detect objects, scenes, and faces using Amazon Rekognition
 Display detected labels
 Built with Express, Multer, and EJS
 # Usage</span>
-Clone the repository: git clone https://github.com/abhijeetlodh/AWS-image-recognition.git
+Clone the repository: git clone https://github.com/abhijeetlodh/AWS-image-recognition-.git
 Install dependencies: npm install
 Set environment variables in .env file (see .env.example)
 Start the server: npm start
